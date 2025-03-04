@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Prac1</string>
+    <string name="loc_default_text">Texto por Defecto</string>
+    <string name="loc_game_name">Trivia is Trivial</string>
+    <string name="loc_start">Comenzar</string>
+    <string name="loc_play">Jugar</string>
+    <string name="loc_settings">Opciones</string>
+    <string name="loc_return">Volver</string>
+    <string name="loc_mode_select">Escoger un Tema</string>
+    <string name="loc_select">Escoger</string>
+    <string name="loc_show_more">Mostrar más</string>
+    <string name="loc_show_less">Mostrar menos</string>
+    <string name="loc_mode_title">Tema</string>
+    <string name="loc_score">Puntuación</string>
+    <string name="loc_continue">Continuar</string>
+    <string name="loc_correct">¡Respuesta Correcta!</string>
+    <string name="loc_wrong">¡Respuesta Errónea!</string>
+</resources>

@@ -1,0 +1,22 @@
+{
+  "cine" : {
+    "name" : "Cine",
+    "questions" : [
+      {
+        "question" : "¿Quién ha sido actor de Doctor Who?",
+        "options" : ["Tom Baker", "Manolo", "Juan"],
+        "answer" : 0
+      }
+    ]
+  },
+  "juegos" : {
+    "name" : "Juegos",
+    "questions" : [
+      {
+        "question" : "gsa",
+        "options" : ["fsa", "fsa", "fsa"],
+        "answer" : 1
+      }
+    ]
+  }
+}
